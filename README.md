@@ -1,2 +1,2 @@
 # IBM-Project-19272-1659695072
-AI based discourse for Banking Industry
+AI based discourse for Banking Industry.
